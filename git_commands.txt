@@ -1,0 +1,33 @@
+history
+  129  git status
+  130  git status
+  131  git add testing.py
+  132  git status
+  133  git rm --cached testing.py
+  134  git status
+  135  git add .
+  136  git status
+  137  git commit -m "added testing files"
+  138  git status
+  139  rm testing.py
+  140  ls
+  141  git status 
+  142  git restore testing.py
+  143  git statusgit remote add origin https://github.com/Daniel-Angali/GitHub-for-devops-workshop.github
+
+  48  git status
+  149  git commit -m "added git commands"
+  150  git config user.name=angalidaniel@gmail.com
+  151  git commit --amend --reset-author
+  152  git status
+  153  git remote add origin https://github.com/Daniel-Angali/GitHub-for-devops-workshop.gi
+  154  git remote add origin https://github.com/Daniel-Angali/GitHub-for-devops-workshop.git
+  155  git remote add origin https://github.com/Daniel-Angali/GitHub-for-devops-workshop.git
+  156  git remote -v
+  157  git remote set-url origin https://github.com/Daniel-Angali/GitHub-for-devops-workshop.git
+  158  git remote -v
+  159  git remote set-url origin https://github.com/Daniel-Angali/GitHub-for-devops-workshop.git
+  160  git remote -v
+  161  git status
+  162  git statugis
+  163  git push origin main
